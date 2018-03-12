@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89598" started-at="2018-03-12T04:00:56Z" finished-at="2018-03-12T04:02:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89598" started-at="2018-03-12T04:00:56Z" finished-at="2018-03-12T04:02:25Z">
+      <class name="DroneTestPackage.DroneTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DroneTestPackage.DroneTest@5c7fa833]" name="setUp" is-config="true" duration-ms="10574" started-at="2018-03-11T21:00:56Z" finished-at="2018-03-11T21:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpUserAccount()[pri:0, instance:DroneTestPackage.DroneTest@5c7fa833]" name="setUpUserAccount" duration-ms="47274" started-at="2018-03-11T21:01:06Z" finished-at="2018-03-11T21:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpUserAccount -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:DroneTestPackage.DroneTest@5c7fa833]" name="testLogin" duration-ms="29365" started-at="2018-03-11T21:01:54Z" finished-at="2018-03-11T21:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DroneTestPackage.DroneTest@5c7fa833]" name="tearDown" is-config="true" duration-ms="2338" started-at="2018-03-11T21:02:23Z" finished-at="2018-03-11T21:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DroneTestPackage.DroneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
